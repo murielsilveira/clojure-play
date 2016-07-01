@@ -2,7 +2,8 @@
   :description "Playing with clojure"
   :url "https://github.com/murielsilveira/clojure-play"
   :license {:name "MIT"}
-  :dependencies [[org.clojure/clojure "1.8.0"]]
+  :dependencies [[org.clojure/clojure "1.8.0"]
+                 [clj-http "2.0.0"]]
   :main ^:skip-aot play.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
