@@ -2,9 +2,13 @@
 
 ## Helpers
 
+```clojure
     # on add new dependencies
     lein deps
 
+    # run tests
+    lein test
+```
 
 ## Usage?
 
