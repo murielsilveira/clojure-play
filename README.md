@@ -1,5 +1,7 @@
 # clojure-play
 
+https://github.com/technomancy/leiningen/blob/stable/doc/TUTORIAL.md
+
 ## Helpers
 
 ```clojure
